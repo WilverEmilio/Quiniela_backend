@@ -676,7 +676,7 @@ pytest -s
 
 Este backend está diseñado para trabajar junto con:
 
-### 👉 [Quiniela Frontend – Astro](https://github.com/tu-usuario/quiniela-frontend)
+### 👉 [Quiniela Frontend – Astro](https://github.com/WilverEmilio/Quiniela_frontend.git)
 
 Ambos proyectos forman parte del mismo ecosistema y comparten el modelo de negocio.
 ```mermaid
